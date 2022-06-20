@@ -20,7 +20,7 @@ The designs were created to the following widths:
 - Grayish Blue: hsl(208, 11%, 55%)
 
 ## Typography
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/all.min.css">
+
 ### Body Copy
 
 - Font size: 18px
